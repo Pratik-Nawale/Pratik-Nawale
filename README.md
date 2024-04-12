@@ -6,9 +6,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=pratik-nawale&label=Profile%20views&color=0e75b6&style=flat" alt="pratik-nawale" /> </p>
 
-- 🔭 I’m currently working on **Social Media Website**
 
-- 🌱 I’m currently learning **MERN Stack**
+
+- 🌱 I’m currently learning **DevOps**
 
 - 💬 Ask me about **MERN**
 
