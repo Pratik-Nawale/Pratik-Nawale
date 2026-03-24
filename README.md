@@ -11,7 +11,7 @@
   <br/>
   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=30&duration=3000&pause=1500&color=B36A4C&center=true&vCenter=true&repeat=true&width=500&height=45&lines=Pratik+Nawale" alt="Name" /></a>
   <br/>
-  <samp><sub>DevOps Engineer &nbsp;·&nbsp; Cloud &nbsp;·&nbsp; Infrastructure Automator</sub></samp>
+  <samp>DevOps Engineer &nbsp;·&nbsp; Cloud &nbsp;·&nbsp; Infrastructure Automator</samp>
   <br/><br/>
   <img src="https://komarev.com/ghpvc/?username=pratik-nawale&label=visitors&color=12343B&style=flat&labelColor=0E1116" alt="Profile Views" />
 </div>
@@ -185,7 +185,7 @@
 <!-- ─── CONNECT ──────────────────────────────────────────── -->
 
 <div align="center">
-  <samp><sub>open to collaborations, infrastructure challenges, and good conversations</sub></samp>
+  <samp>open to collaborations, infrastructure challenges, and good conversations</samp>
   <br/><br/>
   <a href="https://www.linkedin.com/in/pratik-nawale" target="_blank"><img src="https://img.shields.io/badge/linkedin-0E1116?style=for-the-badge&logo=linkedin&logoColor=9B8BBF" /></a>&nbsp;
   <a href="mailto:pratiknawale03@gmail.com"><img src="https://img.shields.io/badge/email-0E1116?style=for-the-badge&logo=gmail&logoColor=B36A4C" /></a>&nbsp;
