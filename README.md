@@ -189,7 +189,7 @@
   <br/><br/>
   <a href="https://www.linkedin.com/in/pratik-nawale" target="_blank"><img src="https://img.shields.io/badge/linkedin-0E1116?style=for-the-badge&logo=linkedin&logoColor=9B8BBF" /></a>&nbsp;
   <a href="mailto:pratiknawale03@gmail.com"><img src="https://img.shields.io/badge/email-0E1116?style=for-the-badge&logo=gmail&logoColor=B36A4C" /></a>&nbsp;
-  <a href="https://pratik-nawale.github.io/Portfoilo-2.0/" target="_blank"><img src="https://img.shields.io/badge/portfolio-0E1116?style=for-the-badge&logo=googlechrome&logoColor=9B8BBF" /></a>
+  <a href="https://portfolio-pratik.nawale.net/" target="_blank"><img src="https://img.shields.io/badge/portfolio-0E1116?style=for-the-badge&logo=googlechrome&logoColor=9B8BBF" /></a>
 </div>
 
 <div align="center">
