@@ -21,7 +21,7 @@
 <div align="center">
   <a href="https://www.linkedin.com/in/pratik-nawale" target="_blank"><img src="https://img.shields.io/badge/linkedin-12343B?style=for-the-badge&logo=linkedin&logoColor=E7DDCF" /></a>&nbsp;
   <a href="mailto:pratiknawale03@gmail.com"><img src="https://img.shields.io/badge/email-12343B?style=for-the-badge&logo=gmail&logoColor=E7DDCF" /></a>&nbsp;
-  <a href="https://pratik-nawale.github.io/Portfoilo-2.0/" target="_blank"><img src="https://img.shields.io/badge/portfolio-12343B?style=for-the-badge&logo=googlechrome&logoColor=E7DDCF" /></a>&nbsp;
+  <a href="https://portfolio-pratik.nawale.net/" target="_blank"><img src="https://img.shields.io/badge/portfolio-12343B?style=for-the-badge&logo=googlechrome&logoColor=E7DDCF" /></a>&nbsp;
   <a href="https://www.reddit.com/user/adumbdistraction/" target="_blank"><img src="https://img.shields.io/badge/reddit-12343B?style=for-the-badge&logo=reddit&logoColor=E7DDCF" /></a>
 </div>
 <br/>
